@@ -1,0 +1,11 @@
+{
+  "deviceID": "tg01-ntpc-korba",
+  "deviceType": "TurbineGenerator",
+  "location": "india/chhattisgarh/ntpc-korba/power-block-1",
+  "timestamp": 1724445837783,
+  "startTime": 1724442237783,
+  "endTime": 1724445837783,
+  "operationStatus": "healthy",
+  "temp": 48,
+  "vibration": 6.2
+}

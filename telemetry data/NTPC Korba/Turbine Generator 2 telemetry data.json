@@ -1,0 +1,18 @@
+{
+  "device": {
+    "id": "tg02-ntpc-korba",
+    "type": "TurbineGenerator"
+  },
+  "startTime": "2024-08-24T08:50:00Z",
+  "endTime": "2024-08-24T09:57:17Z",
+  "timestamp": "2024-08-24T09:57:17Z",
+  "country": "india",
+  "state": "chhattisgarh",
+  "plant": "ntpc-korba",
+  "block": "power-block-2",
+  "data": {
+    "status": "overheating",
+    "temperature": 72,
+    "vibration": 7.8
+  }
+}
