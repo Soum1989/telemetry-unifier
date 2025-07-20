@@ -1,4 +1,4 @@
 run = "python3 api/unify.py"
 
 [env]
-FLASK_ENV="development"
+FLASK_ENV = "development"
