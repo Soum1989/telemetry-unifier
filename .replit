@@ -1,4 +1,6 @@
-run = "python3 api/unify.py"
+[run]
+command = "python app.py"
 
 [env]
 FLASK_ENV = "development"
+# OPENAI_API_KEY = "your-key-here"  # Uncomment and add if needed
